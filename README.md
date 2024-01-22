@@ -6,8 +6,13 @@ https://colab.research.google.com/github/igorkagan/example_python_code/blob/mast
 
 
 https://jupyter.org/install
+
 Jupyter Notebook
+
 Install the classic Jupyter Notebook with:
+
 pip install notebook
+
 To run the notebook:
+
 jupyter notebook
